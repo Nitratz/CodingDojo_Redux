@@ -1,5 +1,5 @@
 # CodingDojo_Redux
 
-First part on branch impl/without_redux
+First part on branch `impl/without_redux`
 
-second part on branch impl/redux
+second part on branch `impl/redux`
