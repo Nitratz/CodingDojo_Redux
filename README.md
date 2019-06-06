@@ -2,4 +2,4 @@
 
 First part on branch `impl/without_redux`
 
-second part on branch `impl/redux`
+Second part on branch `impl/redux`
